@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>Mercancias Solidas</item>
+        <item>Productos Agricolas</item>
+        <item>Productos Liquidos</item>
+    </string-array>
+</resources>
